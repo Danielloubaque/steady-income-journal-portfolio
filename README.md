@@ -45,3 +45,12 @@ Este documento foi escrito para publicação, sem copiar histórico, credenciais
 
 ## Captura real da página pública
 ![steady-income-journal-portfolio — página pública capturada em 14/11/2026](assets/Steady_Real.jpg)
+
+
+## Software House & Digital Solutions — 15/11/2026
+
+Este projeto integra o portfólio técnico da Vyntriva Tech, conduzida pelo fundador e CEO Daniel Loubaque com apoio de IA. Serviços de Front-end, Back-end, Full Stack, automação e integrações são definidos por escopo e viabilidade; esta documentação não afirma domínio avançado nem resultados comerciais.
+
+Site oficial: https://vyntriva-tech.onrender.com/ · Estudos técnicos: https://vyntriva-tech.onrender.com/portfolio.html
+
+As capturas existentes representam o projeto na data da preparação. Automações e integrações precisam de verificação individual antes de serem apresentadas como operacionais.
