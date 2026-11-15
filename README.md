@@ -10,7 +10,7 @@ Daniel de Omena Loubaque é responsável pelos objetivos, decisões de produto e
 Blogger, tema XML, HTML e automação editorial assistida por IA. Tecnologias identificadas no projeto não equivalem a domínio avançado individual.
 
 ## Arquitetura
-Blogger hospeda páginas e artigos; tema XML identificado no repositório privado OmniHub; rotina editorial agendada separadamente.
+Blogger hospeda páginas e artigos; tema XML com cópia de segurança privada; rotina editorial agendada separadamente.
 
 ## Funcionalidades
 Artigos, organização editorial, referências e divulgação de afiliação quando aplicável.
