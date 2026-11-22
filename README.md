@@ -40,7 +40,7 @@ Validar páginas institucionais, links, revisão editorial e funcionamento da ro
 Este documento foi escrito para publicação, sem copiar histórico, credenciais ou dados comerciais privados. Os originais privados permanecem privados. Auditoria documental em 14/11/2026; não constitui garantia de ausência de vulnerabilidades.
 
 ## Contato
-[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.bakedcharm.chatgpt.site)
+[Daniel no GitHub](https://github.com/Danielloubaque) · [LinkedIn](https://www.linkedin.com/in/daniel-loubaque-58443a240/) · [Vyntriva Tech](https://vyntriva-tech.onrender.com/)
 
 
 ## Captura real da página pública
@@ -54,3 +54,8 @@ Este projeto integra o portfólio técnico da Vyntriva Tech, conduzida pelo fund
 Site oficial: https://vyntriva-tech.onrender.com/ · Estudos técnicos: https://vyntriva-tech.onrender.com/portfolio.html
 
 As capturas existentes representam o projeto na data da preparação. Automações e integrações precisam de verificação individual antes de serem apresentadas como operacionais.
+
+
+## Cursos próprios — 22/11/2026
+
+[Steady Skills Academy](https://steadyincomejournal.blogspot.com/p/courses-steady-skills-academy.html) apresenta seis cursos próprios em inglês, com compra e entrega pela Hotmart. Cada curso custa US$29.99, em compra separada. A revisão técnica verificou 122 aulas no conjunto e os seis checkouts; nenhuma compra paga foi realizada nessa validação. As capas são imagens conceituais produzidas com IA, não fotografias de instalações próprias.
